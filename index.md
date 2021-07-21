@@ -8,6 +8,15 @@
 ![](source/image/continuum_manual.png)
 <audio controls="controls">
 <source type="audio/wav" src="source/audio/world1.wav"></source>
+<source type="audio/wav" src="source/audio/world2.wav"></source>
+<source type="audio/wav" src="source/audio/world3.wav"></source>
+<source type="audio/wav" src="source/audio/world4.wav"></source>
+<source type="audio/wav" src="source/audio/world5.wav"></source>
+<source type="audio/wav" src="source/audio/world6.wav"></source>
+<source type="audio/wav" src="source/audio/world7.wav"></source>
+<source type="audio/wav" src="source/audio/world8.wav"></source>
+<source type="audio/wav" src="source/audio/world9.wav"></source>
+<source type="audio/wav" src="source/audio/world10.wav"></source>
 </audio>
 
 
