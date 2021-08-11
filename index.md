@@ -10,12 +10,12 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
 ![](source/image/continuum_manual.png)
 #### 1
 <audio controls="controls">
-<source type="audio/wav" src="source/audio/world1.wav", width=200></source>
+<source type="audio/wav" src="source/audio/world1.wav"></source>
 </audio>
 
 #### 2
 <audio controls="controls">
-<source type="audio/wav" src="source/audio/world2.wav", width=200></source>
+<source type="audio/wav" src="source/audio/world2.wav"></source>
 </audio>
 
 #### 3
@@ -61,6 +61,8 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
 
 ### /bei1/ to /bei4/ using our proposed methed
 ![](source/image/continuum_patch.png)
+
+#### 1
 <audio controls="controls">
 <source type="audio/wav" src="source/audio/train1.wav"></source>
 </audio>
