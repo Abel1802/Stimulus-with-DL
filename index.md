@@ -9,11 +9,14 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
 ### /bei1/ to /bei4/ using WORLD
 ![](source/image/continuum_manual.png)
 
-
-<audio controls="controls">
-  <source type="audio/wav" src="source/audio/world1.wav"></source>
-  <source type="audio/wav" src="source/audio/world2.wav"></source>
-</audio>
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/world1.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/world2.wav"></source>
+  </audio>
+</p>
 
 #### 1
 <audio controls="controls">
