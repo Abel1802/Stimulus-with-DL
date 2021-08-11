@@ -7,10 +7,9 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
 ## Speech samples
 
 
-<p>
-  <img src="source/image/continuum_manual.png", width="100" />
-  <img src="source/image/continuum_patch.png", width="100" /> 
-</p>
+<center class="half">
+    <img src="source/image/continuum_manual.png" width="200"/><img src="source/image/continuum_patch.png" width="200"/>
+</center>
 
 
 <p>
