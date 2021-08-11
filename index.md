@@ -14,9 +14,93 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
     <source type="audio/wav" src="source/audio/world1.wav"></source>
   </audio>
   <audio controls="controls">
-    <source type="audio/wav" src="source/audio/world2.wav"></source>
+    <source type="audio/wav" src="source/audio/train1.wav"></source>
   </audio>
 </p>
+
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/world2.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/train2.wav"></source>
+  </audio>
+</p>
+
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/world3.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/train3.wav"></source>
+  </audio>
+</p>
+
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/world4.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/train4.wav"></source>
+  </audio>
+</p>
+
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/world5.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/train5.wav"></source>
+  </audio>
+</p>
+
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/world6.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/train6.wav"></source>
+  </audio>
+</p>
+
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/world7.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/train7.wav"></source>
+  </audio>
+</p>
+
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/world8.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/train8.wav"></source>
+  </audio>
+</p>
+
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/world9.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/train9.wav"></source>
+  </audio>
+</p>
+
+<p>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/world10.wav"></source>
+  </audio>
+  <audio controls="controls">
+    <source type="audio/wav" src="source/audio/train10.wav"></source>
+  </audio>
+</p>
+
+---
+
 
 #### 1
 <audio controls="controls">
