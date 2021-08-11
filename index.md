@@ -8,10 +8,11 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
 
 
 <center class="half">
-    <img src="source/image/continuum_manual.png" width="200"/><img src="source/image/continuum_patch.png" width="200"/>
+    <img src="source/image/continuum_manual.png" width="500"/><img src="source/image/continuum_patch.png" width="500"/>
 </center>
 
 
+#### a = 0.0
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="source/audio/world1.wav"></source>
@@ -21,6 +22,7 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
   </audio>
 </p>
 
+#### a = 0.1
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="source/audio/world2.wav"></source>
@@ -30,6 +32,7 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
   </audio>
 </p>
 
+#### a = 0.2
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="source/audio/world3.wav"></source>
@@ -39,6 +42,7 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
   </audio>
 </p>
 
+#### a = 0.3
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="source/audio/world4.wav"></source>
@@ -48,6 +52,7 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
   </audio>
 </p>
 
+#### a = 0.4
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="source/audio/world5.wav"></source>
@@ -57,6 +62,7 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
   </audio>
 </p>
 
+#### a = 0.5
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="source/audio/world6.wav"></source>
@@ -66,6 +72,7 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
   </audio>
 </p>
 
+#### a = 0.6
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="source/audio/world7.wav"></source>
@@ -75,6 +82,7 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
   </audio>
 </p>
 
+#### a = 0.7
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="source/audio/world8.wav"></source>
@@ -84,6 +92,7 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
   </audio>
 </p>
 
+#### a = 0.8
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="source/audio/world9.wav"></source>
@@ -93,6 +102,7 @@ Creating a naturalistic speech stimulus continuum (i.e., a series of stimuli equ
   </audio>
 </p>
 
+#### a = 0.9
 <p>
   <audio controls="controls">
     <source type="audio/wav" src="source/audio/world10.wav"></source>
